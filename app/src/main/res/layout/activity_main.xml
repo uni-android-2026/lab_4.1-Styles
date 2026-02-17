@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="70dp"
-            android:text="Первый TextView"
+            android:text="@string/textview1"
             style="@style/BigAccentTextStyle"
             />
 
@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="70dp"
-            android:text="Второй TextView"
+            android:text="@string/textview2"
             style="@style/BigAccentTextStyle"
             />
 
@@ -38,7 +38,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="70dp"
-            android:text="Третий TextView"
+            android:text="@string/textview3"
             style="@style/BigAccentTextStyle"
             />
 
@@ -47,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="70dp"
-            android:text="Последний TextView"
+            android:text="@string/textview4"
             style="@style/BigAccentTextStyle"
             />
 
@@ -66,14 +66,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="20dp"
-            android:text="Кнопка ОК" />
+            android:text="@string/button1" />
 
         <Button
             android:id="@+id/button2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="20dp"
-            android:text="Кнопка Далее" />
+            android:text="@string/button2" />
     </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
