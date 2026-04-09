@@ -1,4 +1,4 @@
-package su.ioplock.styles;
+package org.michael.styles;
 
 import org.junit.Test;
 

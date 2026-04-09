@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "su.ioplock.styles"
+    namespace = "org.michael.styles"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "su.ioplock.styles"
+        applicationId = "org.michael.styles"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
